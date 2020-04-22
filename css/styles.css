@@ -1,0 +1,35 @@
+body {
+	font-family: "Georgia", Times, serif;
+}
+h1 {
+	width: 98%;
+	background:indigo;
+	color: white;
+	padding: 15px;
+	margin: 0px;
+	border: 1px solid white;
+	border-radius: 7px;
+}
+h2 {
+	color : indigo;
+	border-left : 1em solid indigo;
+	padding-left : 0.25em;
+	margin-top : 1.25em;
+}
+article {
+    overflow: hidden;
+}
+.right {
+    float: right;
+    width: 150px;
+}
+.left {
+    float: left;
+    width: 150px;
+}
+.middle {
+    margin: 0 150px;
+    background: lavender;
+    height: 100%;
+    text-align: center;
+}
