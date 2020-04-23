@@ -16,6 +16,11 @@ h2 {
 	padding-left : 0.25em;
 	margin-top : 1.25em;
 }
+header {
+	border-bottom : thin solid black;
+	margin-bottom : 1em;
+	padding-bottom : 0.5em;
+}
 article {
     overflow: hidden;
 }
